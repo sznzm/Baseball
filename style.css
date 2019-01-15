@@ -118,6 +118,7 @@ header a:hover {
 	flex-direction: column;
 	letter-spacing: 1px;
 	margin-bottom: 50px;
+	padding-left: 10px;
 }
 
 .main-banner-content h1 {
