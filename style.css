@@ -141,12 +141,12 @@ header a:hover {
 	width: 150px;
 	padding: 15px 20px;
 	text-align: center;
-	border: 1px solid white;
+	border: 1px solid #fff;
 	margin-top: 40px;
 }
 
 .main-banner a:hover {
-	opacity: .5;
+	background: rgba(255, 255, 255, 0.5);
 }
 
 /*Section one*/
